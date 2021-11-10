@@ -1,3 +1,6 @@
+body{
+    color: #fff;
+}
 #kepek{
     width: 100px;
     height: 100px;
@@ -5,7 +8,12 @@
 h1{
     text-align: center;
     margin-bottom: 25px;
-    
+}
+h3{
+    text-align: center;
+}
+p{
+    text-align: center;
 }
 #vissza{
     margin-top:40px;
