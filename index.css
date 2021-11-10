@@ -6,3 +6,16 @@
 h3{
     text-align: center;
 }
+h1{
+    text-align: center;
+    margin-bottom:100px;
+}
+p{
+    margin: 15px;
+}
+img{
+    margin-bottom: 10px;
+}
+.center{
+    text-align: center;
+}
