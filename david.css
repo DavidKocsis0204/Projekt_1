@@ -1,4 +1,14 @@
 body
 {
-    background-color: blueviolet;
+    
+}
+#felsorolas
+{
+    color: white;
+    font-weight: bold;
+}
+
+#kep
+{
+    float: right;
 }
