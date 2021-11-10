@@ -1,2 +1,2 @@
 # Projekt_1
-közös
+https://davidkocsis0204.github.io/Projekt_1/
