@@ -2,5 +2,5 @@ body
 {
     background-image: url("impala.jpg");
     background-repeat: no-repeat;
-    background-size: auto;
+    background-size: cover;
 }
