@@ -1,6 +1,6 @@
 body
 {
-    
+    background-color: darkorange;
 }
 #felsorolas
 {
@@ -11,4 +11,9 @@ body
 #kep
 {
     float: right;
+
+}
+#cim_1
+{
+    text-align: center;
 }
