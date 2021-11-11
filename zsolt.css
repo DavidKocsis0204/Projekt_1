@@ -13,6 +13,27 @@ p{
 .elerhetosegek{
     text-align: center;
 }
-ul:li{
-    list-style-image: url('./img/zsolt/thumbnail.jpg');
+ul {
+    list-style-type: none;
+    list-style-position: outside;
+}
+
+ul li:before {
+
+    content: '';
+  
+    display: inline-block;
+  
+    width: 30px;
+
+    height: 12px;
+  
+    background-size: 30px;
+
+    background-image: url('./img/zsolt/thumbnail.jpg');
+
+}
+li{
+    margin: 10px;
+    border: black 2px solid;
 }
