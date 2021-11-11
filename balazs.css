@@ -16,7 +16,9 @@ p{
     text-align: center;
 }
 #vissza{
-    margin-top:40px;
     font-size: 22pt;
     text-align: center;
+}
+.paddolj{
+    padding: 10px;
 }
