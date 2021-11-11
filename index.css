@@ -13,10 +13,14 @@ h1{
 }
 p{
     margin: 15px;
+    text-align: justify;
 }
 img{
     margin-bottom: 10px;
 }
 .center{
     text-align: center;
+}
+#kepfent img{
+    margin-top: 10px;
 }
