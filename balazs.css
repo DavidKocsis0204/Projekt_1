@@ -22,3 +22,13 @@ p{
 .paddolj{
     padding: 10px;
 }
+nav{
+    width:200%;
+}
+footer{
+    color: #000;
+    background-color:#fff;
+    border-radius: 15px;
+    position: relative;
+    bottom:-200px;
+}
